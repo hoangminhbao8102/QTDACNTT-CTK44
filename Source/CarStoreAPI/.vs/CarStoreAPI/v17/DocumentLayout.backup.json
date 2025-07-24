@@ -1,0 +1,129 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\QTDACNTT-CTK44\\Source\\CarStoreAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{34231E30-2A4E-411C-A3BC-A3E0AA17787F}|CarStoreAPI.csproj|e:\\qtdacntt-ctk44\\source\\carstoreapi\\services\\class\\reviewservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34231E30-2A4E-411C-A3BC-A3E0AA17787F}|CarStoreAPI.csproj|solutionrelative:services\\class\\reviewservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34231E30-2A4E-411C-A3BC-A3E0AA17787F}|CarStoreAPI.csproj|e:\\qtdacntt-ctk44\\source\\carstoreapi\\services\\interface\\ireviewservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34231E30-2A4E-411C-A3BC-A3E0AA17787F}|CarStoreAPI.csproj|solutionrelative:services\\interface\\ireviewservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34231E30-2A4E-411C-A3BC-A3E0AA17787F}|CarStoreAPI.csproj|e:\\qtdacntt-ctk44\\source\\carstoreapi\\controllers\\reviewscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34231E30-2A4E-411C-A3BC-A3E0AA17787F}|CarStoreAPI.csproj|solutionrelative:controllers\\reviewscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34231E30-2A4E-411C-A3BC-A3E0AA17787F}|CarStoreAPI.csproj|e:\\qtdacntt-ctk44\\source\\carstoreapi\\models\\dto\\reviewdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34231E30-2A4E-411C-A3BC-A3E0AA17787F}|CarStoreAPI.csproj|solutionrelative:models\\dto\\reviewdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34231E30-2A4E-411C-A3BC-A3E0AA17787F}|CarStoreAPI.csproj|e:\\qtdacntt-ctk44\\source\\carstoreapi\\data\\seeders\\dataseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34231E30-2A4E-411C-A3BC-A3E0AA17787F}|CarStoreAPI.csproj|solutionrelative:data\\seeders\\dataseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34231E30-2A4E-411C-A3BC-A3E0AA17787F}|CarStoreAPI.csproj|e:\\qtdacntt-ctk44\\source\\carstoreapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34231E30-2A4E-411C-A3BC-A3E0AA17787F}|CarStoreAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ReviewService.cs",
+              "DocumentMoniker": "E:\\QTDACNTT-CTK44\\Source\\CarStoreAPI\\Services\\Class\\ReviewService.cs",
+              "RelativeDocumentMoniker": "Services\\Class\\ReviewService.cs",
+              "ToolTip": "E:\\QTDACNTT-CTK44\\Source\\CarStoreAPI\\Services\\Class\\ReviewService.cs*",
+              "RelativeToolTip": "Services\\Class\\ReviewService.cs*",
+              "ViewState": "AgIAADcAAAAAAAAAAAAmwDYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T09:07:43.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IReviewService.cs",
+              "DocumentMoniker": "E:\\QTDACNTT-CTK44\\Source\\CarStoreAPI\\Services\\Interface\\IReviewService.cs",
+              "RelativeDocumentMoniker": "Services\\Interface\\IReviewService.cs",
+              "ToolTip": "E:\\QTDACNTT-CTK44\\Source\\CarStoreAPI\\Services\\Interface\\IReviewService.cs*",
+              "RelativeToolTip": "Services\\Interface\\IReviewService.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T09:07:17.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ReviewDto.cs",
+              "DocumentMoniker": "E:\\QTDACNTT-CTK44\\Source\\CarStoreAPI\\Models\\DTO\\ReviewDto.cs",
+              "RelativeDocumentMoniker": "Models\\DTO\\ReviewDto.cs",
+              "ToolTip": "E:\\QTDACNTT-CTK44\\Source\\CarStoreAPI\\Models\\DTO\\ReviewDto.cs",
+              "RelativeToolTip": "Models\\DTO\\ReviewDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T09:02:02.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ReviewsController.cs",
+              "DocumentMoniker": "E:\\QTDACNTT-CTK44\\Source\\CarStoreAPI\\Controllers\\ReviewsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ReviewsController.cs",
+              "ToolTip": "E:\\QTDACNTT-CTK44\\Source\\CarStoreAPI\\Controllers\\ReviewsController.cs",
+              "RelativeToolTip": "Controllers\\ReviewsController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T08:58:34.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DataSeeder.cs",
+              "DocumentMoniker": "E:\\QTDACNTT-CTK44\\Source\\CarStoreAPI\\Data\\Seeders\\DataSeeder.cs",
+              "RelativeDocumentMoniker": "Data\\Seeders\\DataSeeder.cs",
+              "ToolTip": "E:\\QTDACNTT-CTK44\\Source\\CarStoreAPI\\Data\\Seeders\\DataSeeder.cs",
+              "RelativeToolTip": "Data\\Seeders\\DataSeeder.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T08:14:02.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\QTDACNTT-CTK44\\Source\\CarStoreAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\QTDACNTT-CTK44\\Source\\CarStoreAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T02:00:35.556Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
