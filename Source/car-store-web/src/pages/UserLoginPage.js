@@ -1,0 +1,57 @@
+import React, { useState } from 'react';
+import { useNavigate } from 'react-router-dom';
+import api from '../services/api';
+
+function UserLoginPage() {
+  const [email, setEmail] = useState('');
+  const [password, setPassword] = useState('');
+  const navigate = useNavigate();
+
+  const handleLogin = async (e) => {
+    e.preventDefault();
+
+    try {
+      const res = await api.post('/auth/login', { email, password });
+
+      if (res.data.role === 'User') {
+        localStorage.setItem('user', JSON.stringify(res.data));
+        navigate('/');
+      } else {
+        alert('Tài khoản không hợp lệ hoặc không phải User');
+      }
+    } catch {
+      alert('Sai email hoặc mật khẩu');
+    }
+  };
+
+  return (
+    <div className="container mt-5" style={{ maxWidth: '400px' }}>
+      <h3 className="mb-3 text-center">Đăng nhập User</h3>
+      <form onSubmit={handleLogin}>
+        <div className="mb-3">
+          <label>Email</label>
+          <input
+            type="email"
+            className="form-control"
+            value={email}
+            onChange={(e) => setEmail(e.target.value)}
+            required
+          />
+        </div>
+        <div className="mb-3">
+          <label>Password</label>
+          <input
+            type="password"
+            className="form-control"
+            value={password}
+            onChange={(e) => setPassword(e.target.value)}
+            required
+          />
+        </div>
+        <button className="btn btn-primary w-100" type="submit">Đăng nhập</button>
+      </form>
+    </div>
+  );
+}
+
+export default UserLoginPage;
